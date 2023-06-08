@@ -1,12 +1,12 @@
 # Agilo frontend pre-internship case
 
-Build a simple storefront that displays products in a grid (landing page) and allows customers to enter a details page for each product.
+Build a simple storefront that displays products in a grid (landing page) and allows customers to visit a details page for each product.
 
 ### Functional requirements
 
 - As a customer, I should be able to view a list of all products
 - As a customer, I should be able to filter products by collection
-- As a customer, I should be able to enter a product details page
+- As a customer, I should be able to visit a product details page
 - As a customer, I should be able to choose among the product variants
 
 ### Minimum technical requirements
