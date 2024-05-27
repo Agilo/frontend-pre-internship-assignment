@@ -28,7 +28,7 @@ Also, we always encourage and highly appreciate creativity, so please feel free 
 Before getting your hands dirty with the frontend implementation, we need to set you up with a Medusa server. Use medusa [Quickstart Guide](https://docs.medusajs.com/quickstart/quick-start/) to get it up and running in a few minutes. Additionally, you might find Admin of good use. Follow [these steps](https://docs.medusajs.com/admin/quickstart) to set that up as well.
 
 <aside>
-💡 If any of these prerequisites are causing you issues, please ping us (internship@agilo.co) immediately as this should not be a blocker for the rest of the case
+💡 If any of these prerequisites are causing you issues, please ping us (internship@agilo.com) immediately as this should not be a blocker for the rest of the case
 
 </aside>
 
