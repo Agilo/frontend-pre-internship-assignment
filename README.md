@@ -1,6 +1,6 @@
 # Agilo frontend pre-internship case
 
-Build a simple storefront that displays products in a grid (landing page) and allows customers to visit a details page for each product.
+Build a storefront cutup that displays products in a grid (landing page) and allows customers to visit a details page for each product.
 
 ### Functional requirements
 
@@ -11,8 +11,7 @@ Build a simple storefront that displays products in a grid (landing page) and al
 
 ### Minimum technical requirements
 
-- Storefront should be built with Next.js, Gatsby, or CRA
-- Storefront should consume medusa [Store API](https://docs.medusajs.com/api/store/) using pre-built hooks library `medusa-react` or JS SDK `@medusajs/medusa-js`
+- Storefront should be built with Next.js or CRA
 - Storefront should be built using a modular component-based approach
 
 ### Preferred technical requirements
@@ -22,15 +21,6 @@ Build a simple storefront that displays products in a grid (landing page) and al
 - Storefront is built with TypeScript
 
 Also, we always encourage and highly appreciate creativity, so please feel free to give it your touch to make your solution stand out.
-
-## Prerequisites
-
-Before getting your hands dirty with the frontend implementation, we need to set you up with a Medusa server. Use medusa [Quickstart Guide](https://docs.medusajs.com/quickstart/quick-start/) to get it up and running in a few minutes. Additionally, you might find Admin of good use. Follow [these steps](https://docs.medusajs.com/admin/quickstart) to set that up as well.
-
-<aside>
-💡 If any of these prerequisites are causing you issues, please ping us (internship@agilo.com) immediately as this should not be a blocker for the rest of the case
-
-</aside>
 
 ## Let’s go!
 
